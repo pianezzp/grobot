@@ -1,3 +1,5 @@
+# decode a uart message sent by arduino nano on PowerManagement Hat from Waveshare
+
 from serial import Serial as aserial
 from time import sleep
 
