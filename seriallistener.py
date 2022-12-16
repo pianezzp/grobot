@@ -1,4 +1,5 @@
 # decode a uart message sent by arduino nano on PowerManagement Hat from Waveshare
+# Raspberry Pi and Arduino are linked through internal serial port through level shifter
 
 from serial import Serial as aserial
 from time import sleep
